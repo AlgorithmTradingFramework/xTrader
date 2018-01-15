@@ -1,7 +1,7 @@
 # xTrader
 Machine Learning Frame Work for Algorithmic Trading
 
-We provide the libraries that we designed for Algorithmic trading in Khayyam ML, we call them X-Man. X-Man help you to strat your algorithm trading project fast.
+We provide the libraries that we designed for Algorithmic trading in Khayyam ML, we call them X-Men. X-Men help you to strat your algorithm trading project fast.
 We will add more Docs in future.
 
 
